@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+div{
+    text-align: center;
+    /* height: 500px;
+    width: 500; */
+    padding: 30px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.table{
+    background-color: lightgray;
+    margin: center;
+    place-items: center;
+}
+
+.Logo-resize{
+    height: 20px;
+    border-radius: 50%;
+}
+a:hover, a:active, .Logo-resize{
+    background-color: lightskyblue;
+}
+.image-resize{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.upper{
+    text-transform: uppercase;
+    font-family: tropical country;
+}
